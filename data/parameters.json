@@ -1,0 +1,11 @@
+{
+    "test_range":7,
+    "n_inputs":21,
+    "neurons_number":50,
+    "l_rate":0.001,
+    "epochs_number":100,
+    "prediction_range":7,
+    "dates_interval":20,
+    "save_name":"model1",
+    "load_name":"model1"
+}
